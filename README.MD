@@ -1,54 +1,26 @@
-#  Bootcamp QA
- <img src="imagem/Logo-Tripleten.png" >
+<h1 align="center">Hi 👋, I'm Karilly Giraldo Prazeres</h1>
+<h3 align="center">I'm QA Jr.</h3>
 
- #### Sprint 1 - Noções básicas de teste
+- 🔭 I’m currently working on [City Hall of Cambé](https://www.cambe.pr.gov.br/site/)
 
- - Introdução à análise de QA
- - Desenvolvimento e teste
- - Introdução aos checklists
- - Relatórios de bugs
- - Casos de teste
- - Atividades práticas do sprint 1
- - Projeto
+- 🌱 I’m currently learning **more QA skills**
 
-#### Sprint 2 - Design de Teste
-- Introdução ao sprint
-- Análise de requisitos
-- Design de teste
-- Documentação de teste
-- Projeto
+- 👯 I’m looking to collaborate on **some QA project**
 
-#### Sprint 3 - Teste de aplicativos Web
+- 🤝 I’m looking for help with **QA projects and works**
 
+- 💬 Ask me about **Jira, Postman, front-end and back-end and equivelence testste**
 
-- Teste de aplicativos web
-- Como um aplicativo web funciona
-- Teste de interface do usuário de um aplicativo web
-- Teste entre plataformas e navegadores
-- Teste de design web responsivo
-- Design de teste para testes de aplicativos web
-- Projeto
+- 📫 How to reach me **karilly_aha@hotmail.com**
 
-#### Sprint 4 - Teste de API
+- 📄 Know about my experiences [https://www.cambe.pr.gov.br/site/](https://www.cambe.pr.gov.br/site/)
 
-- Introdução ao sprint
-- Introdução à API
-- Testes de API com Postman
-- Design de testeS para teste de API
-- Projeto
+- ⚡ Fun fact **I´m a fun person with a serious face**
 
-#### Sprint 5 - Noções básicas de Banco de Dados
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/karilly-giraldo-prazeres-7530b367/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karilly-giraldo-prazeres-7530b367/" height="30" width="40" /></a>
+</p>
 
-- Introdução ao sprint
-- Linha de comando
-- Noções basicas de SQL
-- Questionário
-
-#### Sprint 6 - Projeto Final
-- Questionário de revisão de todas as sprints
-- Teste de aplicativo
-- Teste de API do aplicativo
-- Projeto
-
-  #### Considerações finais
-Este bootcamp foi bem desafiador, pois exigiu muita dedicação e organização para que o aprendizado da parte teórica e a execução da parte prática fossem concluídos dentro dos prazos estipulados. Devido a isso, posso afirmar que o curso prepara e dá embasamento para que o aluno tenha uma idéia de como é uma realidade de um profissional da área. 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
