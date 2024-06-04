@@ -1,13 +1,18 @@
 <h1 align="center">Hi 👋, I'm Karilly Giraldo Prazeres</h1>
 <h3 align="center">I'm QA Jr.</h3>
 
+I have a degree in English from the State University of Londrina and the language school CNA. Before completing college, I was approved to work at Cambé City Hall, which led me to study a postgraduate degree in Public Administration at Unicesumar University.
+I have extensive experience in customer service, having worked as asalesperson, protocolist and development and credit agent at Entrepreneur Room. In this role, I was responsible for opening small companies, assisting in requesting operating licenses and subsidies to promote business; I even won the Gold award in customer service from Sebrae, that is a private entity that support ventures, due the services and assistance provided in these roles.
+Actually, I work at a Public Department, where I analyze companies' labor documents to ensure payment for services provided to the municipality.
+With my new training in QA (Quality Assurance), I intend to expand my horizons and apply the knowledge acquired to contribute even more in this new field of activity.
+
 - 🔭 I’m currently working on [City Hall of Cambé](https://www.cambe.pr.gov.br/site/)
 
 - 🌱 I’m currently learning **more QA skills**
 
 - 👯 I’m looking to collaborate on **some QA project**
 
-- 🤝 I’m looking for help with **QA projects and works**
+- 🤝 I’m looking to join in the **QA** ways
 
 - 💬 Ask me about **Jira, Postman, front-end and back-end and equivelence testste**
 
